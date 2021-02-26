@@ -20,7 +20,7 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to page1](/Page1)
+[link to Page1](/Page1)
 
 ## Results
 
