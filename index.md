@@ -20,7 +20,7 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to Page1](/lienjinwhite.github.io/Page1.md)
+[link to Page1](https://ljwhite8.github.io/lienjinwhite.github.io/Page1.md)
 
 ## Results
 
